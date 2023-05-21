@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peliculas>
+  <pelicula>
+    <titulo>El Padrino</titulo>
+    <director>Francis Ford Coppola</director>
+    <genero>Drama</genero>
+    <año>1972</año>
+  </pelicula>
+  <pelicula>
+    <titulo>El Padrino II</titulo>
+    <director>Francis Ford Coppola</director>
+    <genero>Drama</genero>
+    <año>1974</año>
+  </pelicula>
+  <pelicula>
+    <titulo>El Padrino III</titulo>
+    <director>Francis Ford Coppola</director>
+    <genero>Drama</genero>
+    <año>1990</año>
+  </pelicula>
+  <pelicula>
+    <titulo>El Señor de los Anillos: La Comunidad del Anillo</titulo>
+    <director>Peter Jackson</director>
+    <genero>Fantasía</genero>
+    <año>2001</año>
+  </pelicula>
+  <pelicula>
+    <titulo>El Señor de los Anillos: Las Dos Torres</titulo>
+    <director>Peter Jackson</director>
+    <genero>Fantasía</genero>
+    <año>2002</año>
+  </pelicula>
+  <pelicula>
+    <titulo>El Señor de los Anillos: El Retorno del Rey</titulo>
+    <director>Peter Jackson</director>
+    <genero>Fantasía</genero>
+    <año>2003</año>
+  </pelicula>
+  <pelicula>
+    <titulo>Harry Potter y la Piedra Filosofal</titulo>
+    <director>Chris Columbus</director>
+    <genero>Fantasía</genero>
+    <año>2001</año>
+  </pelicula>
+  <pelicula>
+    <titulo>Harry Potter y la Cámara Secreta</titulo>
+    <director>Chris Columbus</director>
+    <genero>Fantasía</genero>
+    <año>2002</año>
+  </pelicula>
+  <pelicula>
+    <titulo>Harry Potter y el Prisionero de Azkaban</titulo>
+    <director>Alfonso Cuarón</director>
+    <genero>Fantasía</genero>
+    <año>2004</año>
+  </pelicula>
+  <pelicula>
+    <titulo>Harry Potter y el Cáliz de Fuego</titulo>
+    <director>Mike Newell</director>
+    <genero>Fantasía</genero>
+    <año>2005</año>
+  </pelicula>
+  <pelicula>
+    <titulo>Harry Potter y la Orden del Fénix</titulo>
+    <director>David Yates</director>
+    <genero>Fantasía</genero>
+    <año>2007</año>
+  </pelicula>
+  <pelicula>
+    <titulo>Harry Potter y el Misterio del Príncipe</titulo>
+    <director>David Yates</director>
+    <genero>Fantasía</genero>
+    <año>2009</año>
+  </pelicula>
+ <pelicula>
+    <titulo>Harry Potter y las Reliquias de la Muerte: Parte 1</titulo>
+    <director>David Yates</director>
+    <genero>Fantasía</genero>
+    <año>2010</año>
+  </pelicula>
+  <pelicula>
+    <titulo>Harry Potter y las Reliquias de la Muerte: Parte 2</titulo>
+    <director>David Yates</director>
+    <genero>Fantasía</genero>
+    <año>2011</año>
+  </pelicula>
+  <pelicula>
+    <titulo>El Gran Hotel Budapest</titulo>
+    <director>Wes Anderson</director>
+    <genero>Comedia</genero>
+    <año>2014</año>
+  </pelicula>
+  <pelicula>
+    <titulo>La La Land</titulo>
+    <director>Damien Chazelle</director>
+    <genero>Musical</genero>
+    <año>2016</año>
+  </pelicula>
+  <pelicula>
+    <titulo>Moonlight</titulo>
+    <director>Barry Jenkins</director>
+    <genero>Drama</genero>
+    <año>2016</año>
+  </pelicula>
+  <pelicula>
+    <titulo>El Renacido</titulo>
+    <director>Alejandro González Iñárritu</director>
+    <genero>Aventura</genero>
+    <año>2015</año>
+  </pelicula>
+  <pelicula>
+    <titulo>Parásitos</titulo>
+    <director>Bong Joon-ho</director>
+    <genero>Drama</genero>
+    <año>2019</año>
+  </pelicula>
+  <pelicula>
+    <titulo>La Forma del Agua</titulo>
+    <director>Guillermo del Toro</director>
+    <genero>Fantasía</genero>
+    <año>2017</año>
+  </pelicula>
+</peliculas>
